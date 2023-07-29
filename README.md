@@ -1,2 +1,4 @@
 # Codeforces-Contests-Submissions
-This is a repository to store my accepted submissions of Codeforces Contests I attended.
+This is a repository to store my accepted submissions from Codeforces Contests I attended.
+# About
+There are over 700 accepted solutions to competitive programming problems on codeforces.com  
